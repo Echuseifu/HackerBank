@@ -29,13 +29,13 @@ function App() {
       amount: 2450.45,
       balance: "$12,234.45"
     },
-    {
-      date: "2019-12-03",
-      description: "HACKERBANK INC. DES:CCD+ ID: 33375894749",
-      type: 0,
-      amount: 1985.4,
-      balance: "$12,234.45"
-    },
+    // {
+    //   date: "2019-12-03",
+    //   description: "HACKERBANK INC. DES:CCD+ ID: 33375894749",
+    //   type: 0,
+    //   amount: 1985.4,
+    //   balance: "$12,234.45"
+    // },
     {
       date: "2019-11-29",
       description: "HACKERBANK DES: DEBIT O ID:00097494729",
